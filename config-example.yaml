@@ -1,0 +1,8 @@
+dify:
+  api_key: ""
+  chat_api: ""
+  chatflow_app_id: ""
+
+wechat:
+  webhook_url: "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key="
+  robot_user_id: "wuxiaoshen"
