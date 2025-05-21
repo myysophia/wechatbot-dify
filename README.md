@@ -1,6 +1,6 @@
 # WeChat Bot with Dify Integration
 
-这是一个基于 Go 语言开发的企业微信机器人，集成了 Dify API 来提供智能问答服务。当有人在企业微信群中@机器人时，机器人会调用 Dify API 获取回答并以 markdown 格式返回到群聊中。
+这是一个基于 Go 语言开发的企业微信机器人，集成了 Dify API 来提供智能问答服务。调用 Dify API 获取回答并以 markdown 格式返回到群聊中。
 
 ## 功能特性
 
